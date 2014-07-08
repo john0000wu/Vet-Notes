@@ -5,8 +5,6 @@ $('#card').draggable();
 var editor = new EpicEditor().load();    
 
 
-
-
 });
 
 
